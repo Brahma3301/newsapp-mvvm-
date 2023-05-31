@@ -1,16 +1,9 @@
 # news_app_mvvm
 
-A new Flutter project.
+news app using MVVM architecture
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Home Screen
+![image](https://github.com/Brahma3301/newsapp-mvvm-/assets/90648697/c4be1d6a-9c0c-48e9-804a-ea63d6117a90)
+![image](https://github.com/Brahma3301/newsapp-mvvm-/assets/90648697/119f1eef-e19d-4e21-9fd1-9adf5cdf642c)
+![image](https://github.com/Brahma3301/newsapp-mvvm-/assets/90648697/ad9444a0-39d6-4339-b2e9-073dc70acd77)
